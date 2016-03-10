@@ -1,0 +1,28 @@
+name: RungTest
+favicon: null
+layout_spectrum: 0.1933441273868084
+typography_spectrum: 0.17457021144218743
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7987871933728456
+  lightness: 0.19851982570253313
+  saturation: 0.7210406924132258
+  rhythmicContrast: 0.5976801842916757
+purpose: []
